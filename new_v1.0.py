@@ -1,3 +1,9 @@
+# -*- encoding=utf8 -*-
+'''
+*Created on 2020-2-6
+*Author:ggrp
+*Version 1.0
+'''
 import time
 import datetime
 from selenium import webdriver

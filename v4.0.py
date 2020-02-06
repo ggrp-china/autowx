@@ -1,7 +1,6 @@
 # -*- encoding=utf8 -*-
-#--coding:utf-8 --
 '''
-*Created on 2020-1-30  
+*Created on 2020-2-5
 *Author:ggrp
 *Version 4.0
 *Title: 微信的自动接龙
