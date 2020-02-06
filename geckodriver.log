@@ -1,0 +1,14 @@
+1581009196634	mozrunner::runner	INFO	Running command: "E:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\83527\\AppData\\Local\\Temp\\rust_mozprofile.MVtRIyMoRLkv"
+1581009200744	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581009200928	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581009200928	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581009200929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581009200952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581009204536	Marionette	INFO	Listening on port 7967
+1581009204960	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581009227543	Marionette	INFO	Stopped listening on port 7967
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
